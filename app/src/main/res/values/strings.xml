@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AwesomeChat</string>
+    <string name="standart_text">text</string>
+    <string name="standart_name">name</string>
+    <string name="Button_send">send</string>
+    <string name="title_activity_sing_in">SingInActivity</string>
+    <string name="email">Your Email</string>
+    <string name="password">Your Password</string>
+    <string name="name">Your Name</string>
+    <string name="singup">Sing Up</string>
+    <string name="tapLogIn">Tap To Log In</string>
+    <string name="password2">Confirm Password</string>
+    <string name="singout">Sing Out</string>
+    <string name="UserName">User Name</string>
+</resources>

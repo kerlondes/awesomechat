@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179687400792",
+    "project_id": "awesomechat-70370",
+    "storage_bucket": "awesomechat-70370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179687400792:android:beaae311d6deddee1fb12d",
+        "android_client_info": {
+          "package_name": "com.example.awesomechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB59ppElzp0c8U03Y2x_YU2V8GpivRxOp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
